@@ -1,22 +1,33 @@
 # Comandos utilizados no projeto
 
-# Verificar os arquivos do diretório
+## Navegação e visualização
+
 ls
 
-# Executar o programa Python
+## Execução do programa Python
+
 python3 calculadora.py
 
-# Dar permissão de execução ao Bash
+ou
+
+python calculadora.py
+
+## Execução do programa Bash
+
 chmod 744 calculadora.sh
 
-# Executar o programa Bash
 ./calculadora.sh
 
-# Verificar o status do Git
+## Comandos Git
+
 git status
 
-# Adicionar alterações
 git add .
 
-# Enviar alterações para o GitHub
+git commit -m "mensagem do commit"
+
 git push
+
+## Clonar o repositório
+
+git clone https://github.com/meirellespri/Ebac-calculadora.git
