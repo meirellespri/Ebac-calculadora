@@ -198,3 +198,21 @@ Depois, execute o programa com:
 ## Objetivo do projeto
 
 O objetivo deste projeto é praticar conceitos fundamentais de programação e desenvolvimento utilizando terminal, Python, Bash, Git e GitHub, além de desenvolver boas práticas de documentação e versionamento de código.
+
+## Testes realizados
+
+Foram realizados testes das operações matemáticas disponíveis na calculadora:
+
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
+- Opção de saída do programa
+
+Também foi considerada a situação de divisão por zero, evitando que o programa realize uma operação inválida.
+
+A calculadora pode ser executada pelo terminal utilizando:
+
+```bash
+python3 calculadora.py
+
