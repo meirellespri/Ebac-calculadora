@@ -1,4 +1,22 @@
+# Comandos utilizados no projeto
+
+# Verificar os arquivos do diretório
+ls
+
+# Executar o programa Python
+python3 calculadora.py
+
+# Dar permissão de execução ao Bash
 chmod 744 calculadora.sh
-ls -l calculadora.sh
+
+# Executar o programa Bash
 ./calculadora.sh
 
+# Verificar o status do Git
+git status
+
+# Adicionar alterações
+git add .
+
+# Enviar alterações para o GitHub
+git push
