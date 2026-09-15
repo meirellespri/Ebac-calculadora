@@ -215,4 +215,11 @@ A calculadora pode ser executada pelo terminal utilizando:
 
 ```bash
 python3 calculadora.py
+```
 
+Para a versão em Bash:
+
+```bash
+chmod 744 calculadora.sh
+./calculadora.sh
+```
